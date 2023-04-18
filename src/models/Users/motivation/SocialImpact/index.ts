@@ -16,7 +16,7 @@ const mappings: MapUserToMotivation[] = [
 		type: "social-impact",
 		imageURL: "https://i.imgur.com/NfvVecw.jpg",
 		description:
-			"Með þínu framlagi styður þú við framþróun íslensku í upplýsingatækniþjóðfélaginu",
+			"By playing you are contributing to the creation of language resources.",
 	}),
 
 	/**
