@@ -6,14 +6,14 @@ export interface AddressInfo {
 }
 
 export interface SignupTemplateData {
-	templateId: "d-848972f67bb94ba4a22e826ab6656bff";
+	templateId: "d-2631f912e5d74bd3b7b2bd5520e23630";
 	data: {
 		verificationCode: string;
 	};
 }
 
 export interface ResetPasswordTemplateData {
-	templateId: "d-87d0255b6c7e4bde9594ee435f4fc80d";
+	templateId: "d-131adb2bc11f4e66a8bafc4e6ddafef2";
 	data: {
 		resetPasswordCode: string;
 	};

@@ -57,9 +57,9 @@ export class Sender {
 }
 
 // exported constants
-export const DEFAULT_SENDER = "spurningarapp@ru.is";
-export const REGISTER_USER_TEMPLATE = "d-848972f67bb94ba4a22e826ab6656bff";
-export const RESET_PW_CODE_TEMPLATE = "d-87d0255b6c7e4bde9594ee435f4fc80d";
+export const DEFAULT_SENDER = "noreply@gameqa.app";
+export const REGISTER_USER_TEMPLATE = "d-2631f912e5d74bd3b7b2bd5520e23630";
+export const RESET_PW_CODE_TEMPLATE = "d-131adb2bc11f4e66a8bafc4e6ddafef2";
 export const WEEKLY_WINNERS_TEMPLATE = "d-3c9addb0168445328e035b6244145fcd";
 export const EMAIL_GIVEAWAY_ANNOUNCEMENT_TEMPLATE =
 	"d-bb06178c3b89497bb867cfcf2fed37ea";

@@ -76,6 +76,7 @@ export default class AppUtils {
 	 * Connects to mongo
 	 */
 	private static connectMongo = async () => {
+		console.log(MONGODB_URI)
 		if (process.env.NODE_ENV === "test") return;
 		try {
 			await mongoose.connect(MONGODB_URI, {
@@ -85,6 +86,7 @@ export default class AppUtils {
 			});
 			console.log("Connected to Mongo")
 		} catch (error) {
+			console.log(error)
 			console.log(
 				"error",
 				"MongoDB connection error. Please make sure MongoDB is running. " +
