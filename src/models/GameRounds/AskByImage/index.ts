@@ -9,7 +9,10 @@ import { ImageInfo } from "../interface";
  * to be able to phrase the prompt as 'ask about ____' in Icelandic.
  */
 const images: ImageInfo[] = [
-	
+	{
+        url: "https://live.staticflickr.com/5603/15800330356_0982d5f889_b.jpg",
+        "subject_tf": "Carnegie Mellon"
+    }
 ];
 
 /**
