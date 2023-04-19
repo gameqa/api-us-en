@@ -40,7 +40,71 @@ const images: ImageInfo[] = [
     {
         url: "https://i.imgur.com/SOIMBny.png",
         subject_tf: "Music and Entertainment"
-    }
+    },
+    {
+        url: "https://i.imgur.com/XDjhWxJ.png",
+        subject_tf: "Animals and Wildlife"
+    },
+    {
+        url: "https://i.imgur.com/n0Lxlv2.png",
+        subject_tf: "Environment and Climate",
+    },
+    {
+        url: "https://i.imgur.com/Ox0RCDr.png",
+        subject_tf: "Movies and Television",
+    },
+    {
+        url: "https://i.imgur.com/FR1naDZ.png",
+        subject_tf: "Business and Economics"
+    },
+    {
+        url: "https://i.imgur.com/uPS5Xf9.png",
+        subject_tf: "Education and Careers"
+    },
+    {
+        url: "https://i.imgur.com/EUYG1OD.png",
+        subject_tf: "Fashion and Beauty"
+    },
+    {
+        url: "https://i.imgur.com/l3kucxJ.png",
+        subject_tf: "Gaming and eSports"
+    },
+    {
+        url: "https://i.imgur.com/dOpe2M7.png",
+        subject_tf: "Language and Communication"
+    },
+    {
+        url: "https://i.imgur.com/kwuQvqb.png",
+        subject_tf: "Language and Communication"
+    },
+    {
+        url: "https://i.imgur.com/5Gl872Y.png",
+        subject_tf: "Religion and Philosophy"
+    },
+    {
+        url: "https://i.imgur.com/EHadtg9.png",
+        subject_tf: "Relationships and Family"
+    },
+    {
+        url: "https://i.imgur.com/TZcIi9k.png",
+        subject_tf: "Space and Astronomy"
+    },
+    {
+        url: "https://i.imgur.com/j92ep2J.png",
+        subject_tf: "Hobbies and Interests"
+    },
+    // {
+    //     url: "",
+    //     subject_tf: ""
+    // },
+    // {
+    //     url: "",
+    //     subject_tf: ""
+    // },
+    // {
+    //     url: "",
+    //     subject_tf: ""
+    // }
 ];
 
 /**
