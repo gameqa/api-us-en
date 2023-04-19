@@ -10,8 +10,36 @@ import { ImageInfo } from "../interface";
  */
 const images: ImageInfo[] = [
 	{
-        url: "https://live.staticflickr.com/5603/15800330356_0982d5f889_b.jpg",
-        "subject_tf": "Carnegie Mellon"
+        url: "https://i.imgur.com/jSMQciH.png",
+        subject_tf: "Art and Literature"
+    },
+    {
+        url: "https://i.imgur.com/w3wa0nU.png",
+        subject_tf: "Science and Technologyhmjk,"
+    },
+	{
+        url: "https://i.imgur.com/cfZ82o5.png",
+        subject_tf: "History and Geography"
+    },
+    {
+        url: "https://i.imgur.com/5dqPRSB.png",
+        subject_tf: "Sports and Recreation"
+    }
+	{
+        url: "https://i.imgur.com/2HeK9PM.png",
+        subject_tf: "Health and Wellness"
+    },
+    {
+        url: "https://i.imgur.com/mQFoGhy.png",
+        subject_tf: "Travel and Tourism"
+    },
+	{
+        url: "https://i.imgur.com/xlJzfz3.png",
+        subject_tf: "Food and Cooking"
+    },
+    {
+        url: "Music and Entertainment",
+        subject_tf: "https://i.imgur.com/SOIMBny.png"
     }
 ];
 
