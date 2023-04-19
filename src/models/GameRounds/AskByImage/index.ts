@@ -24,7 +24,7 @@ const images: ImageInfo[] = [
     {
         url: "https://i.imgur.com/5dqPRSB.png",
         subject_tf: "Sports and Recreation"
-    }
+    },
 	{
         url: "https://i.imgur.com/2HeK9PM.png",
         subject_tf: "Health and Wellness"
