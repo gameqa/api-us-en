@@ -15,7 +15,7 @@ const images: ImageInfo[] = [
     },
     {
         url: "https://i.imgur.com/w3wa0nU.png",
-        subject_tf: "Science and Technologyhmjk,"
+        subject_tf: "Science and Technology"
     },
 	{
         url: "https://i.imgur.com/cfZ82o5.png",
@@ -38,8 +38,8 @@ const images: ImageInfo[] = [
         subject_tf: "Food and Cooking"
     },
     {
-        url: "Music and Entertainment",
-        subject_tf: "https://i.imgur.com/SOIMBny.png"
+        url: "https://i.imgur.com/SOIMBny.png",
+        subject_tf: "Music and Entertainment"
     }
 ];
 
