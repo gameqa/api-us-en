@@ -75,7 +75,7 @@ const images: ImageInfo[] = [
     },
     {
         url: "https://i.imgur.com/kwuQvqb.png",
-        subject_tf: "Language and Communication"
+        subject_tf: "Politics and Government"
     },
     {
         url: "https://i.imgur.com/5Gl872Y.png",
@@ -93,18 +93,42 @@ const images: ImageInfo[] = [
         url: "https://i.imgur.com/j92ep2J.png",
         subject_tf: "Hobbies and Interests"
     },
-    // {
-    //     url: "",
-    //     subject_tf: ""
-    // },
-    // {
-    //     url: "",
-    //     subject_tf: ""
-    // },
-    // {
-    //     url: "",
-    //     subject_tf: ""
-    // }
+    {
+        url: "https://i.imgur.com/ggrCH1D.png",
+        subject_tf: "Personal Finance and Investing"
+    },
+    {
+        url: "https://i.imgur.com/upwWK1w.png",
+        subject_tf: "Social Media and Internet Culture"
+    },
+    {
+        url: "https://i.imgur.com/dgMfqP5.png",
+        subject_tf: "Law and Legal Issues"
+    },
+    {
+        url: "https://i.imgur.com/wzcxPco.png",
+        subject_tf: "Psychology and Mental Health"
+    },
+    {
+        url: "https://i.imgur.com/raQNS3F.png",
+        subject_tf: "Festivals and Holidays"
+    },
+    {
+        url: "https://i.imgur.com/iBBLbu6.png",
+        subject_tf: "Cars and Transportation"
+    },
+    {
+        url: "https://i.imgur.com/obpwvgF.png",
+        subject_tf: "Home and Garden"
+    },
+    {
+        url: "https://i.imgur.com/cZx1JZu.png",
+        subject_tf: "Life Hacks and DIY"
+    },
+    {
+        url: "https://i.imgur.com/Y3pncX8.png",
+        subject_tf: "Personal Development"
+    }
 ];
 
 /**
