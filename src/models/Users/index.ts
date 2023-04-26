@@ -324,7 +324,7 @@ userSchema.pre<UserInterface>("save", async function (next) {
 	 *    on incorrect length throw error
 	 */
 	if (this.username.length < MIN_USER_NAME_LENGTH)
-		throw new Error("Username must be at least  ${MIN_USER_NAME_LENGTH}  characters");
+		throw new Error(`Username must be at least  ${MIN_USER_NAME_LENGTH}  characters`);
 	next();
 });
 
